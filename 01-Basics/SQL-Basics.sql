@@ -1,4 +1,4 @@
-Yes 👍 For this exact SQL Basics content, I'll only add Definition and Syntax before each command. I won't add extra topics or interview questions.
+
 
 -- =========================================
 -- SQL BASICS
@@ -189,4 +189,3 @@ LIMIT 3;
 -- END OF SQL BASICS
 -- =========================================
 
-This keeps your exact original content and simply adds the definition + syntax, so it's easy to read when you open the file in GitHub.
